@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarita Devkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://in.pinterest.com/pin/615374736573846166/">
 - 👨‍💻 All of my projects are available at [https://github.com/devkarsarita/personal-site](https://github.com/devkarsarita/personal-site)
 
 - 📫 How to reach me **devkarsarita012@gmail.com**
