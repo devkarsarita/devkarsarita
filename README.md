@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarita Devkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 👨‍💻 All of my projects are available at [https://github.com/devkarsarita/personal-site](https://github.com/devkarsarita/personal-site)
+- 👨‍💻 All of my projects are available at https://devkarsarita.github.io/personal-site/
 
 - 📫 How to reach me **devkarsarita012@gmail.com**
 
