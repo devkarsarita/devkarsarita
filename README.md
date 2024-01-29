@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **devkarsarita012@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1f2DKhKpqKCM8G8jY_7fiJPWBoK1Pb9k2SybResZ3_jc/edit?usp=sharing](https://docs.google.com/document/d/1f2DKhKpqKCM8G8jY_7fiJPWBoK1Pb9k2SybResZ3_jc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
